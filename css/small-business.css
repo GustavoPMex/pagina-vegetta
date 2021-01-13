@@ -3,6 +3,34 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
  */
+
+:root{
+  --color-primary: #794abb;
+  --color-secondary: #7e689c;
+}
+
 body {
   padding-top: 56px;
+  background-color: rgb(53, 53, 53);
+  color: white;
+}
+
+.letras{
+  color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover{
+  color: var(--color-secondary);
+  transition: .1s;
+}
+
+.btn-primary{
+  background-color: var(--color-primary);
+  border-color: var(--color-secondary);
+  transition: .3s;
+}
+
+.btn-primary:hover{
+  background-color: var(--color-secondary);
+  border-color: var(--color-primary);
 }
