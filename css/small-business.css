@@ -34,3 +34,7 @@ body {
   background-color: var(--color-secondary);
   border-color: var(--color-primary);
 }
+
+.text-footer{
+  font-size: 1.3em;
+}
