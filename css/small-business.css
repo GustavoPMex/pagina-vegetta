@@ -34,3 +34,7 @@ body {
   background-color: var(--color-secondary);
   border-color: var(--color-primary);
 }
+
+.nav-item{
+  font-size: 1.4em;
+}
