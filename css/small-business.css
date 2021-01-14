@@ -35,6 +35,11 @@ body {
   border-color: var(--color-primary);
 }
 
+
 .text-footer{
   font-size: 1.3em;
+}
+
+.nav-item{
+    font-size: 1.4em;
 }
