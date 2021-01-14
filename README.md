@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://pm1.narvii.com/6687/1e6d0392c89b27962bd15921308f2b205dfe0f84_00.jpg" alt="Logo" width="80" height="80">
+    <img src="https://pm1.narvii.com/6687/1e6d0392c89b27962bd15921308f2b205dfe0f84_00.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Proyecto Vegetta</h3>
