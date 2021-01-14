@@ -7,6 +7,7 @@
 :root{
   --color-primary: #794abb;
   --color-secondary: #7e689c;
+  --color-link: rgb(89, 158, 89);
 }
 
 body {
@@ -42,4 +43,10 @@ body {
 
 .nav-item{
     font-size: 1.4em;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: var(--color-link);
+  border-color: var(--color-link);
 }
