@@ -4,6 +4,9 @@
 		<img src="https://img.shields.io/github/last-commit/gustavopmex/pagina-vegetta/master?style=for-the-badge" alt="last-commit">
 	</a>
 	<a href="#changelog">
+		<img src="https://img.shields.io/github/commits-since/gustavopmex/pagina-vegetta/v0.1?style=for-the-badge" alt="last-commit">
+	</a>
+	<a href="#changelog">
 		<img src="https://img.shields.io/github/contributors/gustavopmex/pagina-vegetta?style=for-the-badge" alt="contributors">
 	</a>
 </div>
