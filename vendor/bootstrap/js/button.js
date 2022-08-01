@@ -1,1 +1,1 @@
-console.log('Si')
+alert("I'm a script ")
